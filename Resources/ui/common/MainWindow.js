@@ -177,7 +177,7 @@ function MainWindow() {
 	
 	var animation70 = Ti.UI.createAnimation({
 		duration:500,
-		height:'70%'
+		height:'55%'
 	});
 	
 	
